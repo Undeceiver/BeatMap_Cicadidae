@@ -1,0 +1,52 @@
+{
+  "version" : "4.0.1",
+  "song" : {
+    "title" : "Cicadidae",
+    "subTitle" : "",
+    "author" : "Igorrr"
+  },
+  "audio" : {
+    "songFilename" : "song.ogg",
+    "songDuration" : 185.08,
+    "audioDataFilename" : "AudioData.dat",
+    "bpm" : 240,
+    "lufs" : 0,
+    "previewStartTime" : 117,
+    "previewDuration" : 20
+  },
+  "songPreviewFilename" : "song.ogg",
+  "coverImageFilename" : "cover.jpg",
+  "environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "colorSchemes" : [
+  ],
+  "difficultyBeatmaps" : [
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "Expert",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+          "Jabob"
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 19,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "ExpertStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
+    }
+  ],
+  "customData" : {
+    "editors" : {
+      "lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}
