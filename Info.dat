@@ -35,8 +35,8 @@
       },
       "environmentNameIdx" : 0,
       "beatmapColorSchemeIdx" : 0,
-      "noteJumpMovementSpeed" : 19,
-      "noteJumpStartBeatOffset" : 0,
+      "noteJumpMovementSpeed" : 17,
+      "noteJumpStartBeatOffset" : -2,
       "beatmapDataFilename" : "ExpertStandard.dat",
       "lightshowDataFilename" : "Lightshow.dat"
     }
