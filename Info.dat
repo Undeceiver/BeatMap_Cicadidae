@@ -38,6 +38,23 @@
       "noteJumpStartBeatOffset" : -2,
       "beatmapDataFilename" : "ExpertStandard.dat",
       "lightshowDataFilename" : "Lightshow.dat"
+    },
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "ExpertPlus",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "Undeceiver"
+        ],
+        "lighters" : [
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 19,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "ExpertPlusStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
     }
   ],
   "customData" : {
