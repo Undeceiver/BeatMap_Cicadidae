@@ -58,6 +58,23 @@
     }
   ],
   "customData" : {
+    "contributors" : [
+      {
+        "name" : "Sehria_K",
+        "role" : "Testplayer",
+        "iconPath" : ""
+      },
+      {
+        "name" : "iza",
+        "role" : "Testplayer",
+        "iconPath" : ""
+      },
+      {
+        "name" : "Poochy",
+        "role" : "Testplayer",
+        "iconPath" : ""
+      }
+    ],
     "editors" : {
       "lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
